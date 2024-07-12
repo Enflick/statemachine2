@@ -16,5 +16,5 @@ require go.uber.org/atomic v1.7.0 // indirect
 
 require (
 	github.com/google/uuid v1.6.0
-	go.uber.org/multierr v1.10.0 // indirect
+	go.uber.org/multierr v1.6.0 // indirect
 )
