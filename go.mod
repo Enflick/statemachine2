@@ -1,4 +1,4 @@
-module github.com/hibrid/statemachine2
+module github.com/Enflick/statemachine2
 
 go 1.17
 

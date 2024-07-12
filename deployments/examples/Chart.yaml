@@ -12,8 +12,4 @@ dependencies:
   - name: mariadb
     version: 15.1.2
     repository: "file://./charts/mariadb"
-maintainers:
-  - name: gilbert mena
-    email: gilbert@gmena.net
-    url: https://github.com/hibrid
-home: https://github.com/hibrid/statemachine2/examples
+home: https://github.com/Enflick/statemachine2/examples

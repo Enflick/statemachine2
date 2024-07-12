@@ -11,7 +11,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	"go.uber.org/zap"
 
-	statemachine "github.com/hibrid/statemachine2"
+	statemachine "github.com/Enflick/statemachine2"
 )
 
 type Step1 struct {

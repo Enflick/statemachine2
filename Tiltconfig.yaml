@@ -84,8 +84,8 @@ apiServer:
 forward:
   deployment:
     # image: statemachine-go-image # Uncomment to build and run local image or a specific remote image
-  # hostPath: ~/go/src/github.com/hibrid/statemachine2      # Uncomment to build and run local image
-  containerPath: '/go/src/github.com/hibrid/statemachine2/deployments/examples/statemachine2-forward-example'
+  # hostPath: ~/go/src/github.com/Enflick/statemachine2      # Uncomment to build and run local image
+  containerPath: '/go/src/github.com/Enflick/statemachine2/deployments/examples/statemachine2-forward-example'
   dockerFile: 'Dockerfile'
   rebuildCommand: 'SERVICE="-o build/statemachine-go ./" make service-build'
 

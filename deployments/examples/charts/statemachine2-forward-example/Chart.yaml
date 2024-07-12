@@ -3,4 +3,4 @@ appVersion: "1.0"
 description: A Helm chart for Kubernetes
 name: statemachine2-forward-example
 version: 0.1.0
-home: https://github.com/hibrid/statemachine2
+home: https://github.com/Enflick/statemachine2
